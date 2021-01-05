@@ -26,6 +26,9 @@
 				<option value="zh_cn">Chinese - Simplified</option>
 				<option value="zh_tw">Chinese - Traditional</option>
 				<option value="hr">Croatian</option>
+
+<option value="da">danish</option>
+
 				<option value="cz">Czech</option>
 				<option value="nl">Dutch</option>
 				<option value="en">English</option>
